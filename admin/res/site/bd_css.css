@@ -1,0 +1,12 @@
+.menu_tab_item{
+	float: left;
+	margin-top: 15px;
+	width: 50%;
+	text-align: center;
+}
+.menu_tab_item_button{
+	font-size: 20px;
+}
+.bd_menu_create_wrap{
+	
+}

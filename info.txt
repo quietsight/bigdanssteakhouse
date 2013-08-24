@@ -1,0 +1,10 @@
+# Menu Catigories
+	
+	appetite - base 100
+	salad - base 200
+	burgers - base 300
+	steaks - base 400
+	entrees - base 500
+	kids - base 600
+	desserts - base 700
+	unknown - base 800
